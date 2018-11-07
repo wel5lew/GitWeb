@@ -1,0 +1,6 @@
+git clone ссылка        получить документ 
+git status       узнать статус
+git add + название файла или git add -A если хотим залить все файлы
+git commit -m "коментарий" 
+git push
+git pull
